@@ -1,0 +1,92 @@
+
+body{
+  background: url(hello.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+
+.login_third{
+  background-color: #ffffff;
+  width: 35%;
+  margin: auto;
+  height: 90%;
+  margin-top: 2%;
+  position: relative;
+  border-radius: 8px;
+}
+input.email {
+  padding: 18px;
+  padding-right: 110px;
+  border: none;
+  margin-bottom: 12px;
+  padding-left: 4px;
+  padding-bottom: 18px;
+}
+.login_main {
+  position: absolute;
+  top: 6%;
+  display: grid;
+  left: 18%;
+  margin: auto;
+  width: 70%;
+}
+h1 {
+  /* margin: auto; */
+  font-size: 32px;
+  font-family: arial;
+  text-transform: capitalize;
+  margin-bottom: 40px;
+  margin-left: 106px;
+}
+h4 {
+  font-family: sans-serif;
+  text-transform: capitalize;
+}
+i.fas.fa-id-card {padding-top: inherit;}
+
+.icon {
+    display: flow-root;
+}
+i.fas.fa-id-card {
+}
+
+.icon {
+    display: flow-root;
+    border-bottom: 1px solid #6c60686b;
+}
+
+::before {
+}
+
+.icon {}
+button {
+  padding: 20px;
+  border-radius: 32px;
+  margin-top: 20px;
+  text-transform: capitalize;
+  background: linear-gradient(45deg, #7563ba, #fe2ad0eb);
+  overflow: hidden;
+  font-size: 21px;
+  border: none;
+}
+.last_div {
+  margin: auto;
+  font-family: sans-serif;
+}
+
+i.fab.fa-facebook {
+  color: darkblue;
+  size: a3;
+}
+
+i.fab.fa-instagram-square {
+  color: red;
+}
+
+i.fab.fa-twitter-square {
+  color: blue;
+}
+.div {
+  margin: auto;
+  margin-left: 3pc;
+}
